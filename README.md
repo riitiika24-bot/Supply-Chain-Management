@@ -1,6 +1,6 @@
 # Supply Chain Management System
 
-**Author:** Vandana Tanwar  
+**Author:** DEEPSHIKHA 
 **Project Type:** DBMS / Oracle SQL
 
 ## Description
